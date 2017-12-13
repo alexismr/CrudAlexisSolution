@@ -1,0 +1,11 @@
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\bin\Debug\netcoreapp2.0\CrudAlexis.deps.json
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\bin\Debug\netcoreapp2.0\CrudAlexis.runtimeconfig.json
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\bin\Debug\netcoreapp2.0\CrudAlexis.runtimeconfig.dev.json
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\bin\Debug\netcoreapp2.0\CrudAlexis.dll
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\bin\Debug\netcoreapp2.0\CrudAlexis.pdb
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\obj\Debug\netcoreapp2.0\CrudAlexis.csprojResolveAssemblyReference.cache
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\obj\Debug\netcoreapp2.0\CrudAlexis.csproj.CoreCompileInputs.cache
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\obj\Debug\netcoreapp2.0\CrudAlexis.AssemblyInfoInputs.cache
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\obj\Debug\netcoreapp2.0\CrudAlexis.AssemblyInfo.cs
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\obj\Debug\netcoreapp2.0\CrudAlexis.dll
+C:\Users\alexismr.IQADMNT01\Desktop\Crud Angular 5\CrudAlexisSolution\CrudAlexis\obj\Debug\netcoreapp2.0\CrudAlexis.pdb
